@@ -1,6 +1,5 @@
 # s2i-java
 FROM openshift/base-centos7
-MAINTAINER Jorge Morales <jmorales@redhat.com>
 # HOME in base image is /opt/app-root/src
 
 # Install build tools on top of base image

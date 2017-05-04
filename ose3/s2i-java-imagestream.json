@@ -5,7 +5,7 @@
       "name": "s2i-java"
    },
    "spec": {
-      "dockerImageRepository": "jorgemoralespou/s2i-java",
+      "dockerImageRepository": "q1ltd/s2i-java",
       "tags": [
          {
             "name": "latest",
